@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Dev_man" parent="Theme.AppCompat.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimaryVariant">@android:color/transparent</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Navigation bar color. -->
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <!-- Window background color-->
+        <item name="android:windowBackground">@drawable/gradient_background</item>
+    </style>
+</resources>

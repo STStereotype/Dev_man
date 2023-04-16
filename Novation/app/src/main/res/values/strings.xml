@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dev_man</string>
+    <string name="main_title">Новация</string>
+    <string name="menu">Menu</string>
+    <string name="add">Add</string>
+    <string name="available_modules">Доступные модули</string>
+    <string name="update">Update</string>
+    <string name="empty_list">Доступные модули не найдены</string>
+</resources>

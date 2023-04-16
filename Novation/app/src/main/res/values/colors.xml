@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // default
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    // actions
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+
+    // background, panel
+    <color name="white_F8">#F8F8F8</color>
+
+    // text and icons
+    <color name="black_90">#E6000000</color>
+    <color name="gray_90">#E6555555</color>
+
+    // gradient-background
+    <color name="orange">#FFC37D</color>
+    <color name="yellow">#FFDB5D</color>
+</resources>
